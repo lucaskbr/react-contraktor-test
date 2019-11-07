@@ -34,6 +34,7 @@ yarn json-server server.json -p 3333 -d 2000
 * [Polished](https://github.com/styled-components/polished)
 * [JSON Server](https://github.com/typicode/json-server)
 * [React PDF](https://github.com/wojtekmaj/react-pdf)
+* [Yup](https://github.com/jquense/yup)
 * [Rocketseat Unform](https://github.com/Rocketseat/unform)
 * [React Select](https://github.com/JedWatson/react-select)
 * [React Datepicker](https://reactdatepicker.com/)
