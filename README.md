@@ -3,7 +3,7 @@
 # Welcome to Contraktor CRUD Test :wave:
 
 
-> An CRUD build with react and others cool libs
+> An CRUD builded with react and other cool libs
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/39783638/68355863-6a5ec180-00ef-11ea-9931-bf5246f16a84.png">
@@ -19,6 +19,7 @@ yarn start
 ```
 
 ```sh
+In the same folder (react-contraktor-test)
 Open another terminal
 yarn json-server server.json -p 3333 -d 2000
 ```
